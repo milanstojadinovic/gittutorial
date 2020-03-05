@@ -1,5 +1,10 @@
 h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: aqua;
-    background-color: blue;
+    font-family: 'Trade Winds', cursive;
+    color: yellow;
+    background-color: darkslategray;
+}
+
+body {
+    background-color: black;
+    text-align: center;
 }
