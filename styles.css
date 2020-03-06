@@ -1,15 +1,15 @@
 h1, h3 , p{
-    font-family: 'Trade Winds', cursive;
-    color: yellow;
-    background-color: darkslategray;
+    font-family: 'Prata', serif;
+    color: darkslategray;
+    background-color: lightcyan;
 }
 
 body {
-    background-color: black;
+    background-color: white;
     text-align: center;
 }
 
 span {
-    color: crimson;
-    background-color: darkslategray;
+    color: black;
+    background-color: aqua;
 }
