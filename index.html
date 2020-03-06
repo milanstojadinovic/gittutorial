@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="app.js"></script>
     <link rel="stylesheet" type="text/css" href="styles.css" />
-    <link href="https://fonts.googleapis.com/css?family=Prata&display=swap" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css?family=Prata&display=swap"
+      rel="stylesheet"
+    />
     <title>Git Practice</title>
   </head>
   <body>
@@ -34,6 +37,28 @@
       <p>
         To check status simply type in git bash <span>git status</span>. This
         will show current status of files.
+      </p>
+      <h3>4. Before we continue...</h3>
+      <p>
+        Now it is important to understand that all files are tracked in stages.
+        First we have a working directory with files. Then we need to add them,
+        prepare them. To prepare files we type <span>git add . </span>. This
+        will prepare all files in directory. If we want seperate files to be
+        added we type <span>git add myFile.extension</span>. Now in the first
+        command we used <strong>dot</strong>, to tell that we want all files to
+        prepare. Just to be sure in what is going on we will type
+        <span>git status</span>. This is good practice to be aware of process.
+        Next thing is to commit those files. To do that we type
+        <span
+          >git commit -m "comment , message , short description of changes we
+          made."</span
+        >. Again we check our status <span>git status</span>.
+      </p>
+      <h3>5. GitHub Repository</h3>
+      <p>
+        Create your GitHub repository under your GitHub account. This will be
+        place where we put our files. Now we need to clone our project, and to
+        do that we type <span>git clone URL-LOCATION-OF-REPOSITORY</span>.
       </p>
     </div>
   </body>
