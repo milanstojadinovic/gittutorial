@@ -1,4 +1,4 @@
-h1, h3 {
+h1, h3 , p{
     font-family: 'Trade Winds', cursive;
     color: yellow;
     background-color: darkslategray;
@@ -7,4 +7,9 @@ h1, h3 {
 body {
     background-color: black;
     text-align: center;
+}
+
+span {
+    color: crimson;
+    background-color: darkslategray;
 }
