@@ -1,0 +1,1 @@
+This is meant to be just for practice with VSC and Git Bash console.
